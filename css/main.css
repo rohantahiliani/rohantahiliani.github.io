@@ -1,0 +1,18 @@
+/*! HTML5 Boilerplate v5.2.0 | MIT License | https://html5boilerplate.com/ */
+
+body {
+    padding-top: 70px;
+}
+
+nav a {
+    color: #BC7A00!important;
+}
+
+.navbar-brand, .brand-primary {
+    color: #825!important;
+}
+
+dt, dt+dd {
+    padding-top: 5px;
+}
+
